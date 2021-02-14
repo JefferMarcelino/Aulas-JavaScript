@@ -1,2 +1,2 @@
 # Aulas-JavaScript
- Aulas de JavaScript do Curso em Vidoe
+ Aulas de JavaScript do Curso em Video
